@@ -85,13 +85,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Security
 
-If you discover any security related issues, please email webklex@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email info@webklex.com instead of using the issue tracker.
 
 ## Credits
 
 - [Webklex][link-author]
 - Andrew Brown
-- [All Contributors][link-contributors]
+- All Contributors
 
 ## License
 
