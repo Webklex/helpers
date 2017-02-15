@@ -3,8 +3,6 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
 This is a helpers package that provides some built in helpers, and also provides an Artisan generator to quickly create your own custom helpers.
@@ -90,9 +88,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 If you discover any security related issues, please email github@webklex.com instead of using the issue tracker.
 
 ## Credits
+
 - [Webklex][link-author]
 - Andrew Brown
-- [All Contributors][link-contributors]
+- All Contributors
 
 ## License
 
@@ -100,7 +99,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/webklex/helpers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/webklex/helpers/master.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Webklex/helpers/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/webklex/helpers.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/webklex/helpers.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/webklex/helpers.svg?style=flat-square

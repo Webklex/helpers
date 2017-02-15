@@ -5,8 +5,8 @@ if (!function_exists('DummyFunction')) {
     /**
      * description
      *
-     * @param
-     * @return
+     * @param  type $name
+     * @return type
      */
     function DummyFunction()
     {
