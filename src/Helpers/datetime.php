@@ -42,8 +42,7 @@ if (!function_exists('datetimeSpan')) {
      * @param string    $timezone
      * @return string
      */
-    function datetimeSpan($start, $end, $startFormat, $endFormat, $timezone = null)
-    {
+    function datetimeSpan($start, $end, $startFormat, $endFormat, $timezone = null) {
         //null start or end
         if (is_null($start) || is_null($end)) {
             return null;

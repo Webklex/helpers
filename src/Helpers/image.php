@@ -11,8 +11,7 @@ if (!function_exists('image')) {
      * @param string      $default
      * @return string
      */
-    function image($url = false, $default = null)
-    {
+    function image($url = false, $default = null) {
         //no image
         if (!$url) {
             return ($default) ?: config('helpers.default_image');

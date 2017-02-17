@@ -10,8 +10,7 @@ if (!function_exists('validation_state')) {
      * @param string                           $context
      * @return string
      */
-    function validation_state(Illuminate\Support\ViewErrorBag $errors, $names, $context = 'has-danger')
-    {
+    function validation_state(Illuminate\Support\ViewErrorBag $errors, $names, $context = 'has-danger') {
         //normalize input to array
         if (!is_array($names)) {
             $names = [$names];

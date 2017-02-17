@@ -8,8 +8,7 @@ if (!function_exists('DummyFunction')) {
      * @param  type $name
      * @return type
      */
-    function DummyFunction()
-    {
+    function DummyFunction() {
 
     }
 }

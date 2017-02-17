@@ -8,8 +8,7 @@ if (!function_exists('phone')) {
      * @param string $phone
      * @return string
      */
-    function phone($phone)
-    {
+    function phone($phone) {
         //do we have an extension?
 
         //strip out non-numerics
@@ -41,8 +40,7 @@ if (!function_exists('blurb')) {
      * @param bool    $br
      * @return string
      */
-    function blurb($blurb, $maxChars = null, $suffix = '...', $br = true)
-    {
+    function blurb($blurb, $maxChars = null, $suffix = '...', $br = true) {
         //blurb is shorter than max chars
         if (strlen($blurb) < $maxChars) {
             return nl2br($blurb);
@@ -74,8 +72,7 @@ if (!function_exists('formatBytes')) {
      * @param int $precision
      * @return string
      */
-    function formatBytes($bytes, $precision = 2)
-    {
+    function formatBytes($bytes, $precision = 2) {
         $units = ['B', 'KB', 'MB', 'GB', 'TB'];
 
         $bytes = max($bytes, 0);
