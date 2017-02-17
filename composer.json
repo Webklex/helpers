@@ -1,7 +1,7 @@
 {
     "name": "webklex/helpers",
     "type": "library",
-    "description": "generic helpers",
+    "description": "Basic and flexible Laravel helpers",
     "keywords": [
         "webklex",
         "laravel",
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "Malte Goldenbaum",
-            "email": "info@webklex.com",
+            "email": "github@webklex.com",
             "role": "Developer"
         }
     ],
